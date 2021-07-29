@@ -21,7 +21,6 @@ Meu nome é Gisele, costumam me chamar de Gi! :blush::heart: Sou Apaixonada por 
 - 🔭 Eu atualmente estou trabalhando na [@Pagar.me](https://github.com/pagarme)
 - 👯 Buscando colaborar com pessoas que estejam iniciando na carreira
 - 🥅 Objetivos para 2021: Ampliar meus conhecimentos sobre qualidade de software e integração contínua
-- ⚡ Curiosidade: I started coding because I wanted to develop videogames. Then I learned augmented reality.
 - 💬 Caso queira conversar sobre qualidade, ferramentas de automação , ci/cd entre outros assuntos ficarei feliz em bater um papo
 
 ## 💬 Contatos e contribuições
