@@ -65,3 +65,5 @@ Meu nome é Gisele, costumam me chamar de Gi! :blush::heart: Sou Apaixonada por 
 [Jest]: https://jestjs.io/pt-BR/
 [Mocha]: https://mochajs.org/
 [Chai]: https://www.chaijs.com/
+
+  ![Snake animation](https://github.com/giselerosa/giselerosa/blob/output/github-contribution-grid-snake.svg)
