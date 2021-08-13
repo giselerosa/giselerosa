@@ -40,11 +40,17 @@ Meu nome é Gisele, costumam me chamar de Gi! :blush::heart: Sou Apaixonada por 
 [<img alt="Jest" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jest.svg" />][Jest]
 [<img alt="Mocha" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mocha.svg" />][Mocha]
 
+
+
+
+
 ## 📚 Estudando
 
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img alt="Cypress" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg" />][Cypress]
+[<img alt="AppliTools" width="220" src="https://theme.zdassets.com/theme_assets/2306977/802e613e6a008150428a52e5be87ab009adfa8a0.svg" />][AppliTools]
+[<img alt="Percy" width="190" src="https://opencollective-production.s3-us-west-1.amazonaws.com/d83d7230-076f-11e8-ade1-411cb407edb2.png" />][Percy]
 
  
 [Azure Pipelines]: https://azure.microsoft.com/pt-br/services/devops/pipelines/
@@ -64,5 +70,8 @@ Meu nome é Gisele, costumam me chamar de Gi! :blush::heart: Sou Apaixonada por 
 [Jest]: https://jestjs.io/pt-BR/
 [Mocha]: https://mochajs.org/
 [Chai]: https://www.chaijs.com/
+[AppliTools]: https://applitools.com/
+[Percy]: https://percy.io/
+
 
 ![Snake animation](https://github.com/giselerosa/giselerosa/blob/output/github-contribution-grid-snake.svg)
